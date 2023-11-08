@@ -6,7 +6,7 @@ document.getElementById('user-name').innerHTML = userName
 
 //Variaveis
 
-/*var nome  = 'Mestre Yoda'
+var nome  = 'Mestre Yoda'
 var idade = 100
 var jedi = true
 
@@ -15,8 +15,8 @@ var jedi = true
 // operadores matematicos
 
 
-//var n1 = 5
-//var n2 = 6.7
+var n1 = 5
+var n2 = 6.7
 
 //console.log(typeof n1)
 //console.log(typeof n2)
